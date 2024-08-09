@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AshBloom/static/css/main.071ba569.css",
+    "main.js": "/AshBloom/static/js/main.dd6d3eae.js",
+    "index.html": "/AshBloom/index.html",
+    "main.071ba569.css.map": "/AshBloom/static/css/main.071ba569.css.map",
+    "main.dd6d3eae.js.map": "/AshBloom/static/js/main.dd6d3eae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071ba569.css",
+    "static/js/main.dd6d3eae.js"
+  ]
+}
